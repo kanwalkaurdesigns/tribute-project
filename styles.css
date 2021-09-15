@@ -1,0 +1,39 @@
+h1 {
+  background-color: gold;
+  padding: 50px;  
+  text-align: center;
+  margin-bottom: 0px;
+}
+h2 {
+  color: white;
+  text-align: center;
+  background-color: black;
+  margin-top: 0px;
+  margin-bottom: 40px;
+  padding:20px;
+  font-size: 15px;
+}
+.ada-lovelace {
+  width: 500px;
+  height: 330px;
+  background-color: #b69eeef6;
+  margin: 0 auto 0 auto;
+}
+.ada-lovelace img{
+  display: block;
+  margin: 0 auto 0 auto;
+  padding-top: 10px;
+}
+.ada-lovelace p {
+  text-align: center;
+  color: white;
+}
+.time-line {
+  margin: o auto o auto;
+}
+footer {
+  background-color:  gold;
+  padding: 40px;
+  text-align: center;
+}
+
